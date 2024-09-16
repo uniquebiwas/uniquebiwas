@@ -1,96 +1,132 @@
-👋 Hi, I'm Biwas Pudasaini
+# 👋 Hi, I'm Biwas Pudasaini
 
-🚀 DevOps Engineer | Cloud Enthusiast | AI Model Integrator
+**🚀 DevOps Engineer | Cloud Enthusiast | AI Model Integrator**
 
-🔧 Passionate about automating, scaling, and optimizing cloud infrastructures.
-
-🛠️ Skills and Tools
-
-DevOps & Cloud Tools:
-
-☁️ Cloud Platforms: AWS, GCP, EKS
-
-🐳 Containerization: Docker, Kubernetes (Helm, GKE, MinIO)
-
-🔄 Automation: Terraform, Ansible, Jenkins
-
-📈 Monitoring: Prometheus, Grafana, ELK Stack, Kibana
-
-🔧 CI/CD: Jenkins, GitHub Actions
-
-🔀 Version Control: GitHub, Bitbucket
-
-🗄️ Databases: MySQL, PostgreSQL, Cloud Storage (S3, GCR)
-
-📩 Messaging & Alerts: Slack, Alertmanager
-
-🌟 Featured Projects
-
-🚀 Remote Job Finder
-
-A web application built using Django that helps users find remote job opportunities.
-
-Tech stack: Python, Django, APIs
-
-Features: Job search, filtering, user authentication
-
-GitHub Repo: View Repository
-
-🍇 AI Fruit Classification & Sentiment Analysis
-
-Utilized machine learning for image classification of fruits and text sentiment analysis.
+Passionate about automating, scaling, and optimizing cloud infrastructures.
 
 
-Tech stack: Machine Learning, NLP, Python
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=uniquebiwas&theme=github-dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uniquebiwas&layout=compact&theme=radical)
 
-Features: Classification of fruits using image datasets, sentiment analysis using text data
+---
 
-GitHub Repo: View Repository
+## 🔧 Skills and Tools
 
-🎓 Education & Certifications
+### **Cloud Platforms:**
+ ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
+ ![GCP](https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white)
+ ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
+ ![Cloud Storage](https://img.shields.io/badge/Cloud_Storage-005A7B?logo=cloudflare&logoColor=white)
 
-🎓 BSc (Hons) Computer Science – University of Wolverhampton (First Class Honors)
+### **Containerization & Orchestration:**
+ ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+ ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+ ![MinIO](https://img.shields.io/badge/MinIO-4F5D95?logo=minio&logoColor=white)
+ ![VMWare](https://img.shields.io/badge/VMWare-607078?logo=vmware&logoColor=white)
 
-🏅 Diploma in DevOps Engineering – Kubernetes, Docker, GCP
+### **Automation & CI/CD:**
+ ![Terraform](https://img.shields.io/badge/Terraform-7A42BC?logo=terraform&logoColor=white)
+ ![Ansible](https://img.shields.io/badge/Ansible-000000?logo=ansible&logoColor=white)
+ ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
+ ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
+ ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=white)
 
-📜 Certifications: 
+### **Monitoring & Logging:**
+ ![Prometheus](https://img.shields.io/badge/Prometheus-E65000?logo=prometheus&logoColor=white)
+ ![Grafana](https://img.shields.io/badge/Grafana-F00000?logo=grafana&logoColor=white)
+ ![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?logo=elasticsearch&logoColor=white)
+ ![Splunk](https://img.shields.io/badge/Splunk-0087BF?logo=splunk&logoColor=white)
+ ![Kibana](https://img.shields.io/badge/Kibana-005571?logo=kibana&logoColor=white)
 
-• Diploma in DevOps Engineering - Kubernetes, Docker and Google Cloud
+### **Version Control:**
+ ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+ ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+ ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=white)
 
-• Diploma in Kubernetes Administration
+### **Project Management & Collaboration:**
+ ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
+ ![Trello](https://img.shields.io/badge/Trello-0079BF?logo=trello&logoColor=white)
+ ![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?logo=microsoftteams&logoColor=white)
+ ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white)
+ ![ServiceNow](https://img.shields.io/badge/ServiceNow-003C71?logo=servicenow&logoColor=white)
 
-• Introduction to Monitoring Kubernetes
+### **Programming Languages & Frameworks:**
+ ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+ ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+ ![Data Science](https://img.shields.io/badge/Data_Science-1F77B4?logo=data-science&logoColor=white)
 
-• Master Linux and Shell Script From Beginner to Advanced
+### **Databases:**
+ ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+ ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+ ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+ ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
 
-• Progressive Delivery in Kubernetes
+### **Virtualization & CloudOps:**
+ ![Virtualization](https://img.shields.io/badge/Virtualization-1F77B4?logo=vmware&logoColor=white)
+ ![CloudOps](https://img.shields.io/badge/CloudOps-17B3A3?logo=cloudflare&logoColor=white)
+ ![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-0082FC?logo=cloudflare&logoColor=white)
+ ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+ ![Python Django](https://img.shields.io/badge/Python_Django-092E20?logo=django&logoColor=white)
+ ![Data Center Experience](https://img.shields.io/badge/Data_Center_Experience-17B3A3?logo=data-center&logoColor=white)
 
-• DevOps Integration with Jenkins Pipelines
+---
 
-• Getting Started with Docker
+## 🌟 Featured Projects
 
-• FREE AWS Beginners Course
+### 🚀 Remote Job Finder
+A web application built with Django to help users find remote job opportunities.
 
-• Python Django 101: Step 1 to become a Data Science Expert
+- **Tech Stack:** Python, Django, APIs
+- **Features:** Job search, filtering, user authentication, Schedule Meeting
 
-• Jira Fundamentals Badge
 
-• Diploma in Amazon Web Services
+### 🍇 AI Fruit Classification & Sentiment Analysis
+Used machine learning for fruit image classification and text sentiment analysis.
 
-• Computer Networking - Local Area Networks and the OSI Model
+- **Tech Stack:** Machine Learning, NLP, Python
+- **Features:** Classification of fruits using image datasets, sentiment analysis using text data
 
-• Linux Network Administrator
 
-• Critical Thinking for Better Judgment and Decision-Making
+---
 
-• Project Management Foundations: Teams
+## 🎓 Education & Certifications
 
-• Scrum Development
+- **🎓 BSc (Hons) Computer Science** – University of Wolverhampton (First Class Honors)
+- **🏅 Diploma in Information Technology** – Nepal Banepa Polytechnic Institute
 
-📬 Get in Touch
+**Certifications:**
 
-📧 Email: uniquebiwas@gmail.com
+- ![Diploma in DevOps Engineering Kubernetes, Docker and Google Cloud](https://img.shields.io/badge/Diploma_in_DevOps_Engineering_Kubernetes,_Docker_and_Google_Cloud-0073E6?logo=certification&logoColor=white)
+- ![Diploma in Kubernetes Administration](https://img.shields.io/badge/Diploma_in_Kubernetes_Administration-0073E6?logo=certification&logoColor=white)
+- ![Introduction to Monitoring Kubernetes](https://img.shields.io/badge/Introduction_to_Monitoring_Kubernetes-0073E6?logo=certification&logoColor=white)
+- ![Master Linux and Shell Script](https://img.shields.io/badge/Master_Linux_and_Shell_Script-0073E6?logo=certification&logoColor=white)
+- ![Progressive Delivery in Kubernetes](https://img.shields.io/badge/Progressive_Delivery_in_Kubernetes-0073E6?logo=certification&logoColor=white)
+- ![DevOps Integration with Jenkins Pipelines](https://img.shields.io/badge/DevOps_Integration_with_Jenkins_Pipelines-0073E6?logo=certification&logoColor=white)
+- ![Getting Started with Docker](https://img.shields.io/badge/Getting_Started_with_Docker-0073E6?logo=certification&logoColor=white)
+- ![FREE AWS Beginners Course](https://img.shields.io/badge/FREE_AWS_Beginners_Course-0073E6?logo=certification&logoColor=white)
+- ![Python Django 101](https://img.shields.io/badge/Python_Django_101-0073E6?logo=certification&logoColor=white)
+- ![Jira Fundamentals Badge](https://img.shields.io/badge/Jira_Fundamentals_Badge-0073E6?logo=certification&logoColor=white)
+- ![Diploma in Amazon Web Services](https://img.shields.io/badge/Diploma_in_Amazon_Web_Services-0073E6?logo=certification&logoColor=white)
+- ![Computer Networking](https://img.shields.io/badge/Computer_Networking-0073E6?logo=certification&logoColor=white)
+- ![Linux Network Administrator](https://img.shields.io/badge/Linux_Network_Administrator-0073E6?logo=certification&logoColor=white)
+- ![Critical Thinking for Better Judgment](https://img.shields.io/badge/Critical_Thinking_for_Better_Judgment-0073E6?logo=certification&logoColor=white)
+- ![Project Management Foundations](https://img.shields.io/badge/Project_Management_Foundations-0073E6?logo=certification&logoColor=white)
+- ![Scrum Development](https://img.shields.io/badge/Scrum_Development-0073E6?logo=certification&logoColor=white)
 
-💼 LinkedIn: Connect with me! : https://www.linkedin.com/in/biwas-pudasaini-191435216/
+---
 
-🌐 Website: https://biwaspudasaini.com.np/about
+## 📫 Contact
+
+- **Email:** [Mail Me](mailto:info@biwaspudasaini.com.np)
+- **LinkedIn:** [Check Linkedin](https://www.linkedin.com/in/biwas-pudasaini)
+- **Website:** [About Me](https://biwaspudasaini.com.np/about)
+
+---
+
+![Biwas's GitHub stats](https://github-readme-stats.vercel.app/api?username=uniquebiwas&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=uniquebiwas&theme=github-dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uniquebiwas&layout=compact&theme=radical)
+
+*Feel free to reach out for collaboration or any inquiries!*
+
+---
