@@ -4,6 +4,9 @@
 
 Passionate about automating, scaling, and optimizing cloud infrastructures.
 
+![Pull Shark](https://img.shields.io/badge/Achievement-Pull_Sharkx2-239a3b?logo=github&logoColor=white)  ![YOLO](https://img.shields.io/badge/Achievement-YOLO-FFD700?logo=github&logoColor=white)  ![Quickdraw](https://img.shields.io/badge/Achievement-Quickdraw-ff6347?logo=zap&logoColor=white)  
+
+
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=uniquebiwas&theme=github-dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uniquebiwas&layout=compact&theme=radical)
@@ -136,3 +139,16 @@ Used machine learning for fruit image classification and text sentiment analysis
 *Feel free to reach out for collaboration or any inquiries!*
 
 ---
+
+
+ ![Top 1% in GitHub Commits](https://img.shields.io/badge/Top_1%25_in_GitHub_Commits-181717?logo=github&logoColor=white)
+ ![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS_Certified_Solutions_Architect-232F3E?logo=amazon-aws&logoColor=white)
+ ![Certified Kubernetes Administrator (CKA)](https://img.shields.io/badge/Certified_Kubernetes_Administrator-326CE5?logo=kubernetes&logoColor=white)
+ ![Docker Certified Associate](https://img.shields.io/badge/Docker_Certified_Associate-2496ED?logo=docker&logoColor=white)
+ ![Jenkins Pipeline Expert](https://img.shields.io/badge/Jenkins_Pipeline_Expert-D24939?logo=jenkins&logoColor=white)
+ ![GitHub Actions Contributor](https://img.shields.io/badge/GitHub_Actions_Contributor-2088FF?logo=github-actions&logoColor=white)
+ ![Terraform Advanced User](https://img.shields.io/badge/Terraform_Advanced_User-7A42BC?logo=terraform&logoColor=white)
+ ![Google Cloud Professional](https://img.shields.io/badge/Google_Cloud_Professional-4285F4?logo=google-cloud&logoColor=white)
+ ![DevOps Engineer ](https://img.shields.io/badge/DevOps_Engineer-0078D4?logo=azure-devops&logoColor=white)
+ ![Kubernetes Orchestration Guru](https://img.shields.io/badge/Kubernetes_Orchestration_Guru-326CE5?logo=kubernetes&logoColor=white)
+
