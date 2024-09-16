@@ -78,7 +78,7 @@ A web application built with Django to help users find remote job opportunities.
 
 - **Tech Stack:** Python, Django, APIs
 - **Features:** Job search, filtering, user authentication, Schedule Meeting
-- <a href="https://github.com/uniquebiwas/Remote-Job-Finder">
+<a href="https://github.com/uniquebiwas/Remote-Job-Finder">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=uniquebiwas&repo=Remote-Job-Finder" />
 </a>
 
@@ -88,7 +88,7 @@ Used machine learning for fruit image classification and text sentiment analysis
 
 - **Tech Stack:** Machine Learning, NLP, Python
 - **Features:** Classification of fruits using image datasets, sentiment analysis using text data
-- <a href="https://github.com/uniquebiwas/Machine-Learning">
+<a href="https://github.com/uniquebiwas/Machine-Learning">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=uniquebiwas&repo=Machine-Learning" />
 </a>
 
