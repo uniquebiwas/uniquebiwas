@@ -154,5 +154,4 @@ Used machine learning for fruit image classification and text sentiment analysis
 
 
 
-```bash
-docker-compose down
+
