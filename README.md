@@ -152,3 +152,7 @@ Used machine learning for fruit image classification and text sentiment analysis
  ![DevOps Engineer ](https://img.shields.io/badge/DevOps_Engineer-0078D4?logo=azure-devops&logoColor=white)
  ![Kubernetes Orchestration Guru](https://img.shields.io/badge/Kubernetes_Orchestration_Guru-326CE5?logo=kubernetes&logoColor=white)
 
+
+
+```bash
+docker-compose down
